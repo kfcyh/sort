@@ -1,3 +1,11 @@
+/************************************************************************************
+*						    				    *
+* Function: struct of Sqlist and function of swap for kinds of algorithm for sort   *
+* Written by Mr.YeHeng				   				    *
+* 2020/4/28  Huaqiao University		            			            *
+*						    				    *
+************************************************************************************/
+
 #pragma once
 #include <stdlib.h>
 #include <iostream>
@@ -17,4 +25,3 @@ inline void swap(SqList L, int i, int j)
 	L->r[j] = temp;
 }
 
-void SelectSort(SqList L);
