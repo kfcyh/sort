@@ -1,9 +1,9 @@
 /*************************************************
-*												 *
-* Function:SelectSort							 *
-* Written by Mr.YeHeng							 *
-* 2020/4/28  Huaqiao University					 *
-*												 *
+*						 *
+* Function:SelectSort			         *
+* Written by Mr.YeHeng				 *
+* 2020/4/28  Huaqiao University			 *
+*						 *
 *************************************************/
 
 #include "sort.h"
