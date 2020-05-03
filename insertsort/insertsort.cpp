@@ -1,6 +1,6 @@
 /*************************************************
 *						 *
-* Function:SelectSort			         *
+* Function:InsertSort			         *
 * Written by Mr.YeHeng				 *
 * 2020/4/28  Huaqiao University			 *
 *						 *
