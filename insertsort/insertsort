@@ -1,6 +1,6 @@
 #include "sort"
 
-void insertsort(SqList *L)
+void insertsort(SqList L)
 {
 	int i, j;
 	for (i = 2; i < L->length; i++)
