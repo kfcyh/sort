@@ -1,4 +1,4 @@
-# A repository including several kinds of classical sort algorithm
+# A repository including several kinds of classical sort algorithms
 
 # 目录
 1.简单选择排序</br>
