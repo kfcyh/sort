@@ -1,6 +1,6 @@
 /*************************************************
 *						 *
-* Function:SelectSort			         *
+* Function:HeapSort			         *
 * Written by Mr.YeHeng				 *
 * 2020/5/3  Huaqiao University			 *
 *						 *
