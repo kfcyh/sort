@@ -1,3 +1,10 @@
+/*************************************************
+*						 *
+* Function:ShellSort			         *
+* Written by Mr.YeHeng				 *
+* 2020/4/28  Huaqiao University			 *
+*						 *
+*************************************************/
 #include "sort.h"
 
 void ShellSort(SqList L)
