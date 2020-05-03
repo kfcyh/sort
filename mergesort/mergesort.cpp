@@ -1,3 +1,9 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <stdlib.h>
+#include <iostream>
+
 void Merge(vector<int>& numbers, int start, int mid, int end) 
 {
 	int* temp = new int[end - start + 1];	//第一步，申请空间，大小为两个排序序列之和
