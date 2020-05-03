@@ -1,3 +1,10 @@
+/*************************************************
+*						 *
+* Function:SelectSort			         *
+* Written by Mr.YeHeng				 *
+* 2020/5/3  Huaqiao University			 *
+*						 *
+*************************************************/
 #include "sort.h"
 
 void percDown(SqList L, int index, int size)
