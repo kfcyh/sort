@@ -1,4 +1,4 @@
-#include "Sort.h"
+#include "sort.h"
 
 void ShellSort(SqList L)
 {
