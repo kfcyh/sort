@@ -23,21 +23,4 @@ void SelectSort(SqList L)
 			swap(L, i, min);
 	}
 }
-/*************************测试代码************************/
-int main()
-{
-	SqList L = (SqList)new list;
-	int arc[] = { 9,1,5,8,3,7,4,6,2 };
-	for (int i = 0; i < 9; i++)
-	{
-		L->r[i + 1] = arc[i];
-		L->length++;
-	}
-	//L->length = 9;
-	SelectSort(L);
-	for (int i = 0; i < 9; i++)
-	{
-		cout << L->r[i + 1] << " ";
-	}
-	getchar();
-}
+
