@@ -1,6 +1,6 @@
 #include "sort.h"
 
-void percDown(SqList* L, int index, int size)
+void percDown(SqList L, int index, int size)
 {
 	if (index >= size)
 		return;
@@ -18,7 +18,7 @@ void percDown(SqList* L, int index, int size)
 	L->r[index] = L->r[0];
 }
 
-void heapSort(SqList* L)
+void heapSort(SqList L)
 {
 	if (!L)
 		return;
