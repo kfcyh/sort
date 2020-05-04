@@ -1,3 +1,11 @@
+/*************************************************
+*						 *
+* Function:QuickSort			         *
+* Written by Mr.YeHeng				 *
+* 2020/5/3  Huaqiao University			 *
+*						 *
+*************************************************/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
